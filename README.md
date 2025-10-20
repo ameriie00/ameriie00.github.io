@@ -21,10 +21,10 @@ After years working in marketing, UX, and digital strategy, I decided to master 
 ---
 
 ## 🎓 Education
-- **MSc Web Development** – University of Roehampton *(2025–2026)*  
-- **MBA in Hospitality** – UVM Mexico *(2022)*  
-- **Master’s in Digital Strategy & Creativity** – UAB Barcelona *(2021)*  
-- **Bachelor’s in Marketing** – UVM Mexico  
+- **MSc Web Development** – University of Roehampton, UK *(2025–2026)*  
+- **Master’s in Digital Strategy & Creativity** – UAB, Spain *(2021)*
+- **MBA** – UVM, Mexico  
+- **Bachelor’s in Marketing** – Loyola, Mexico  
 
 ---
 
