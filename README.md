@@ -52,4 +52,4 @@ Resolved escalations and optimized workflows between marketing, billing, and cus
 ## 🌟 Projects
 - [USA Trip Planner](https://www.usa-trip-planner.com/)  
 - [Creatiloom Web Studio](https://creatiloom.com)  
-- [Coffee Lovers UK](https://github.com/ameriie00)
+- [América Bernal - Website](https://americabernal.com)
