@@ -20,26 +20,28 @@ After years working in marketing, UX, and digital strategy, I decided to master 
 
 ---
 
-## 💼 Professional Experience
-**Marketing Lead – FOMOE (UK Charity)**  
-2023–Present  
-Led digital strategy and content creation, increasing online engagement by 150%.  
-
-**Technical Support Specialist – Interactive Brokers**  
-2021–2024  
-Supported security tools and collaborated with global teams to enhance UX and client communication.  
-
-**Senior Specialist – Expedia**  
-2019–2020  
-Resolved escalations and optimized workflows between marketing, billing, and customer service teams.  
+## 🎓 Education
+- **MSc Web Development** – University of Roehampton *(2025–2026)*  
+- **MBA in Hospitality** – UVM Mexico *(2022)*  
+- **Master’s in Digital Strategy & Creativity** – UAB Barcelona *(2021)*  
+- **Bachelor’s in Marketing** – UVM Mexico  
 
 ---
 
-## 🎓 Education
-- MSc Web Development – University of Roehampton *(2025–2026)*  
-- MBA in Hospitality – UVM Mexico *(2022)*  
-- Master’s in Digital Strategy & Creativity – UAB Barcelona *(2021)*  
-- Bachelor’s in Marketing – UVM Mexico  
+## 💼 Professional Experience
+
+**Web Designer & Digital Strategist – FOMOE (UK Charity)**  
+2023–Present  
+Designing and maintaining the charity’s website while leading its digital transformation strategy.  
+Responsible for improving usability, SEO, and visual communication to boost engagement and donor experience.  
+
+**Digital Marketing Specialist – Interactive Brokers (IBKR)**  
+2021–2024  
+Created and managed digital campaigns, analysed engagement metrics, and collaborated across departments to enhance online brand presence and client experience.  
+
+**Senior Specialist – Expedia**  
+2019–2020  
+Resolved high-priority escalations and optimized workflows between marketing, billing, and customer service teams. Contributed to the improvement of customer journey processes across the platform.
 
 ---
 
